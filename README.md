@@ -75,6 +75,6 @@ Bye!
 
 ### Notes
 * Every time you finish a word, whether by denoting that a prediction was correct or using `$`, that word is added to your history file and taken into consideration for future predictions.
-	* Your history file persists across different runs of the program
+	* Your history file persists across different runs of the program.
 * Inputs are case-sensitive.
 * It is assumed that no spelling error are made when you are entering words.
