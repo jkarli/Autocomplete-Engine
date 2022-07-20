@@ -20,7 +20,7 @@
 	* Do NOT include the parenthesis around the number.
 	* Do NOT enter a number if it does not represent a valid prediction as it will crash the program.
 * If you have finished entering your word and it was not predicted by the program, you can enter `$` followed by `Enter` and the next word will start.
-*If at any point you wish to exit the program, you can enter `!` followed by `Enter`.
+* If at any point you wish to exit the program, you can enter `!` followed by `Enter`.
 
 An example run of the program would proceed as follows:
 
